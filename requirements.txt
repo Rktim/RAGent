@@ -1,0 +1,11 @@
+streamlit
+langgraph
+langchain
+langchain-community
+langchain-ollama
+crawl4ai
+playwright
+faiss-cpu
+pypdf
+rank-bm25
+ddgs
