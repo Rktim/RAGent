@@ -241,7 +241,7 @@ Open your browser and start chatting with your knowledge.
 
 ## 📄 License
 
-MIT License — free to use, modify, and distribute.
+MIT License 
 
 ---
 
