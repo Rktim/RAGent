@@ -1,4 +1,6 @@
-# 🧠 RAGent
+<img width="111" height="91" alt="gg" src="https://github.com/user-attachments/assets/d579f95c-ca6e-4e86-b192-cf481c44fa94" />
+
+# RAGent
 
 **RAGent** is a modern, fully local, **agentic Retrieval-Augmented Generation (RAG)** system designed for developers, researchers, and builders who want **transparent, controllable, and extensible AI reasoning** over their own knowledge.
 
@@ -115,13 +117,13 @@ RAGent is built for:
 ┌──────────────────────────────┐
 │ Answer + Citations + Tool Log│
 └──────────────────────────────┘
-
-
+```
 
 ---
 
-## 📁 Project Structure
 
+
+## 📁 Project Structure
 ```
 ragent/
 │
