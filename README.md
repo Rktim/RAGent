@@ -121,27 +121,6 @@ RAGent is built for:
 
 ---
 
-
-
-## 📁 Project Structure
-```
-ragent/
-│
-├── app.py                # Streamlit UI (Claude-style)
-├── rag_agent.py          # Agentic reasoning graph (LangGraph)
-├── vectorstore.py        # Hybrid BM25 + FAISS retriever
-├── crawl_ingest.py       # Website ingestion using Crawl4AI
-├── sqlite_store.py       # Persistent storage (SQLite)
-├── memory.py             # Long-context summarization logic
-├── kb_manager.py         # Knowledge base lifecycle management
-├── web_search.py         # DuckDuckGo search tool
-│
-├── agentic_rag.db        # SQLite database (auto-created)
-└── README.md
-```
-
----
-
 ## ⚙️ Requirements
 
 ### System
@@ -225,17 +204,6 @@ Open your browser and start chatting with your knowledge.
 * Study companions
 * Offline AI tools
 * Agentic RAG experimentation
-
----
-
-## 🛣 Roadmap (Optional)
-
-* Multi-user authentication
-* PostgreSQL backend
-* Dockerized deployment
-* Evaluation dashboards
-* Light/Dark mode toggle
-* Frontend migration (Next.js)
 
 ---
 
